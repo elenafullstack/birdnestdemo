@@ -1,0 +1,26 @@
+a:link {
+   color: #3485ff;
+   text-decoration: none;
+}
+
+a:hover {
+    text-decoration: none;
+    color:#34e7ff;
+}
+
+.vide {
+    display:flex;
+   justify-content: center;
+  }
+
+  .instructions {
+      margin-top: 8%;
+      width:100%;
+  }
+  .photo{
+      width:100%;
+  }
+
+  .photo img {
+      width:100%
+  }
